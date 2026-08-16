@@ -1,7 +1,10 @@
 <div align="center">
 
 # ⚡ NOREDDINE EN-NAIM
-### **AI & Automation Specialist | Software Engineer | Web & Mobile Developer**
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4285F4&center=true&vCenter=true&width=650&lines=AI+%26+Automation+Specialist;Data+Science+Student+%40+UCD;Full-Stack+Web+%26+Mobile+Developer;Creator+of+DubNour+AI+Dubbing+Studio" alt="Typing SVG" />
+</a>
 
 📍 **El Jadida, Morocco** • 📧 [noreddineennaim@gmail.com](mailto:noreddineennaim@gmail.com) • 💼 [LinkedIn](https://www.linkedin.com/in/noreddine-en-naim-b943a7271) • 🌐 [GitHub](https://github.com/noreddineennaim)
 
@@ -25,7 +28,7 @@ Specializing in **AI integrations (Google Gemini, ElevenLabs, OpenAI)**, **deskt
 
 <div align="center">
 
-### **AI, Audio & Video Processing**
+### **AI, Audio & Media Processing**
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007800?style=for-the-badge&logo=ffmpeg&logoColor=white)
@@ -118,6 +121,10 @@ MP4 Video ➔ JSON Timings ➔ FFmpeg Split ➔ Gemini / ElevenLabs TTS ➔ AI A
 
 <img src="https://github-readme-stats.vercel.app/api?username=noreddineennaim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Noreddine's GitHub Stats" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noreddineennaim&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=noreddineennaim&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
 
 </div>
 
