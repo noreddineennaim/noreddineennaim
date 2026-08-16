@@ -3,13 +3,14 @@
 # ⚡ NOREDDINE EN-NAIM
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4285F4&center=true&vCenter=true&width=650&lines=AI+%26+Automation+Specialist;Data+Science+Student+%40+UCD;Full-Stack+Web+%26+Mobile+Developer;Creator+of+DubNour+AI+Dubbing+Studio" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4285F4&center=true&vCenter=true&width=650&lines=AI+%26+Automation+Specialist;Data+Science+Student+%40+UCD;Full-Stack+Web+%26+Mobile+Developer;Creator+of+DubNour+AI+Dubbing+Studio;Published+Mobile+Game+Developer" alt="Typing SVG" />
 </a>
 
 📍 **El Jadida, Morocco** • 📧 [noreddineennaim@gmail.com](mailto:noreddineennaim@gmail.com) • 💼 [LinkedIn](https://www.linkedin.com/in/noreddine-en-naim-b943a7271) • 🌐 [GitHub](https://github.com/noreddineennaim)
 
-[![Data Science](https://img.shields.io/badge/Education-Licence%20Sciences%20des%20Donn%C3%A9es-007ACC?style=for-the-badge&logo=academic-cap&logoColor=white)](#-education--certifications)
+[![Data Science](https://img.shields.io/badge/Education-B.Sc.%20in%20Data%20Science-007ACC?style=for-the-badge&logo=academic-cap&logoColor=white)](#-education--qualifications)
 [![Full-Stack & AI](https://img.shields.io/badge/Focus-AI%20%26%20Automation%20--%20Software%20Dev-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white)](#-featured-projects)
+[![Google Play](https://img.shields.io/badge/Published-Google%20Play%20Developer-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.pixelforge.unscrewmaster)
 [![Status](https://img.shields.io/badge/Available%20for-Freelance%20%26%20Projects-00C853?style=for-the-badge)](#-connect-with-me)
 
 ---
@@ -18,9 +19,9 @@
 
 ## 👨‍💻 About Me
 
-Passionate **Data Science & Software Engineering** student and **AI/Automation Developer** dedicated to building high-performance desktop tools, intelligent web & mobile applications, and automated digital solutions.
+Passionate **Data Science** student and **AI & Software Developer** dedicated to engineering high-performance desktop tools, intelligent web & mobile applications, interactive mobile games, and automated digital solutions.
 
-Specializing in **AI integrations (Google Gemini, ElevenLabs, OpenAI)**, **desktop engineering (Electron, C++, TypeScript)**, and **cross-platform mobile applications (Flutter, Android Studio)**. Proven ability to architect complex video processing pipelines, digital forensics & security tools, and custom workflow automation platforms.
+Specializing in **AI Integrations (Google Gemini, ElevenLabs, OpenAI)**, **Desktop Systems Engineering (Electron, C++, TypeScript)**, and **Mobile Game & App Development (Flutter, Android Studio, Kotlin/Java)**. Proven track record of architecting complex video dubbing pipelines, cybersecurity inspection suites, and publishing live applications on the **Google Play Store**.
 
 ---
 
@@ -28,7 +29,7 @@ Specializing in **AI integrations (Google Gemini, ElevenLabs, OpenAI)**, **deskt
 
 <div align="center">
 
-### **AI, Audio & Media Processing**
+### **AI, Audio & Video Processing**
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007800?style=for-the-badge&logo=ffmpeg&logoColor=white)
@@ -54,7 +55,7 @@ Specializing in **AI integrations (Google Gemini, ElevenLabs, OpenAI)**, **deskt
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C99?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Canva & Photoshop](https://img.shields.io/badge/Photoshop%20%26%20Canva-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Photoshop & Canva](https://img.shields.io/badge/Photoshop%20%26%20Canva-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 </div>
 
@@ -78,6 +79,18 @@ MP4 Video ➔ JSON Timings ➔ FFmpeg Split ➔ Gemini / ElevenLabs TTS ➔ AI A
 
 ---
 
+### 🎮 [Unscrew Master — Mobile Android Game](https://play.google.com/store/apps/details?id=com.pixelforge.unscrewmaster)
+
+[![Get it on Google Play](https://img.shields.io/badge/Google_Play-Download_Game-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.pixelforge.unscrewmaster)
+
+> **Published Mobile Android Game on the Google Play Store featuring interactive physics puzzles, screw-pin logic challenges, and smooth level progression.**
+
+- **Engaging Gameplay Mechanics**: Designed screw-pin unlocking algorithms, dynamic collision detection, and level progression logic.
+- **Live Production App**: Published and distributed on the official **Google Play Store** under PixelForge (`com.pixelforge.unscrewmaster`).
+- **Tech Stack**: Flutter / Android Studio, Java/Kotlin, Mobile Game UI/UX Design, Play Console Deployment.
+
+---
+
 ### 🛡️ PSSIA — AI Cybersecurity & Digital Forensics Platform
 
 > **Intelligent cybersecurity platform designed for encryption analysis, digital forensics, and network security inspection.**
@@ -98,20 +111,11 @@ MP4 Video ➔ JSON Timings ➔ FFmpeg Split ➔ Gemini / ElevenLabs TTS ➔ AI A
 
 ---
 
-### 📱 ScrewMaster — Mobile Utility Application
+## 🎓 Education & Qualifications
 
-> **Cross-platform mobile application designed for utility tools and user workflow management.**
-
-- **Native Mobile UI**: Optimized layout for mobile interaction, background task execution, and intuitive controls.
-- **Tech Stack**: Flutter, Android Studio, Java/Kotlin.
-
----
-
-## 🎓 Education & Certifications
-
-- 🎓 **Licence en Sciences des Données (Data Science)** | *Université Chouaïb Doukkali* `(2023 – 2026)`
-- 💻 **Diplôme en Développement Digital** | *OFPPT* `(2021 – 2022)`
-- 📜 **Baccalauréat en Sciences de la Vie et de la Terre (SVT)** `(2020)`
+- 🎓 **Bachelor's Degree (Licence) in Data Science** | *Chouaïb Doukkali University* `(2023 – 2026)`
+- 💻 **Diploma in Digital Development** | *OFPPT* `(2021 – 2022)`
+- 📜 **High School Diploma (Baccalaureate) in Life & Earth Sciences (SVT)** `(2020)`
 
 ---
 
